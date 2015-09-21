@@ -1,0 +1,8 @@
+c:\users\geek\documents\visual studio 2012\Projects\Entity Framework\EDMX Model First\bin\Debug\EDMX Model First.dll.config
+c:\users\geek\documents\visual studio 2012\Projects\Entity Framework\EDMX Model First\bin\Debug\EDMX Model First.dll
+c:\users\geek\documents\visual studio 2012\Projects\Entity Framework\EDMX Model First\bin\Debug\EDMX Model First.pdb
+c:\users\geek\documents\visual studio 2012\Projects\Entity Framework\EDMX Model First\bin\Debug\EntityFramework.dll
+c:\users\geek\documents\visual studio 2012\Projects\Entity Framework\EDMX Model First\bin\Debug\EntityFramework.xml
+c:\users\geek\documents\visual studio 2012\Projects\Entity Framework\EDMX Model First\obj\Debug\EDMX Model First.csprojResolveAssemblyReference.cache
+c:\users\geek\documents\visual studio 2012\Projects\Entity Framework\EDMX Model First\obj\Debug\EDMX Model First.dll
+c:\users\geek\documents\visual studio 2012\Projects\Entity Framework\EDMX Model First\obj\Debug\EDMX Model First.pdb
